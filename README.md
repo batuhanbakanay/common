@@ -1,6 +1,2 @@
-1. Kullanıcı kayıt olur.
-2. Pseudonymous profil oluşturur.
-3. Aktivite açar.
-4. Başka aktiviteleri görür.
-5. Katılma isteği gönderir.
-6. Buluşma sonrası güvenlik/deneyim feedback’i verir.
+# Common
+Common is an MVP project for an activity-first social application. The app helps users create small social activities, discover activities created by others, and request to join them.
