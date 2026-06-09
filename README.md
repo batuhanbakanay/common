@@ -1,2 +1,4 @@
 # Common
-Common is an MVP project for an activity-first social application. The app helps users create small social activities, discover activities created by others, and request to join them.
+Common is an MVP project for an activity-first social application. The app helps users create small social activities, discover activities created by others, and request to join them.## Project Status
+
+This project is currently in the MVP planning phase.
